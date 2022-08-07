@@ -1,18 +1,28 @@
 {
   "files": {
-    "main.css": "/app.me/static/css/main.d3277f90.css",
-    "main.js": "/app.me/static/js/main.fc3320bd.js",
+    "main.css": "/app.me/static/css/main.c5924ecc.css",
+    "main.js": "/app.me/static/js/main.8bcc920f.js",
     "static/js/787.1f835c3c.chunk.js": "/app.me/static/js/787.1f835c3c.chunk.js",
+    "static/media/sass-svgrepo-com.svg": "/app.me/static/media/sass-svgrepo-com.5fc20428d9402fcb2ae3fe1ddc29d625.svg",
+    "static/media/react-svgrepo-com.svg": "/app.me/static/media/react-svgrepo-com.8fbfd99ef6838886e5c486274a463452.svg",
+    "static/media/html5-svgrepo-com.svg": "/app.me/static/media/html5-svgrepo-com.30a188cd71a0ce2682173da316a9a311.svg",
+    "static/media/css-3-svgrepo-com.svg": "/app.me/static/media/css-3-svgrepo-com.2f9a4c46a09704418f0ee15e9df24de6.svg",
+    "static/media/wordpress-svgrepo-com.svg": "/app.me/static/media/wordpress-svgrepo-com.541a6e2b21ff99ce55f9a2acd135a339.svg",
+    "static/media/bootstrap-svgrepo-com.svg": "/app.me/static/media/bootstrap-svgrepo-com.b69d2d8ce1785c3823953d29293132ea.svg",
     "static/media/iconmonstr-github-1.svg": "/app.me/static/media/iconmonstr-github-1.f538a81064729876f8f561d4fd92f7e1.svg",
+    "static/media/js-svgrepo-com.svg": "/app.me/static/media/js-svgrepo-com.ff9b2d0712bcc261927077f343f0d221.svg",
     "index.html": "/app.me/index.html",
     "static/media/iconmonstr-behance-1.svg": "/app.me/static/media/iconmonstr-behance-1.94f4142aba94af936fbd890c527ab537.svg",
     "static/media/iconmonstr-linkedin-1.svg": "/app.me/static/media/iconmonstr-linkedin-1.dd6f7b6d74ccb21dbeb629775b54cddc.svg",
-    "main.d3277f90.css.map": "/app.me/static/css/main.d3277f90.css.map",
-    "main.fc3320bd.js.map": "/app.me/static/js/main.fc3320bd.js.map",
+    "static/media/nuxtjs-svgrepo-com.svg": "/app.me/static/media/nuxtjs-svgrepo-com.b8eef9b276580ba9541282c39ec282e0.svg",
+    "static/media/vuejs-svgrepo-com.svg": "/app.me/static/media/vuejs-svgrepo-com.520aece0f13933fc68d5e9e58de5ee22.svg",
+    "static/media/vuetify-svgrepo-com.svg": "/app.me/static/media/vuetify-svgrepo-com.67bd60e22e26632026d81ba29d70152e.svg",
+    "main.c5924ecc.css.map": "/app.me/static/css/main.c5924ecc.css.map",
+    "main.8bcc920f.js.map": "/app.me/static/js/main.8bcc920f.js.map",
     "787.1f835c3c.chunk.js.map": "/app.me/static/js/787.1f835c3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3277f90.css",
-    "static/js/main.fc3320bd.js"
+    "static/css/main.c5924ecc.css",
+    "static/js/main.8bcc920f.js"
   ]
 }
