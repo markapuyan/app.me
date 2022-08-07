@@ -12,10 +12,10 @@
 }
 
 .icon-container p {
-    color: #FFF;
+    color: #121212;
     margin-left: 15px;
 }
 
 .icon-container:hover {
-    border: 1px solid #FFF;
+    border: 1px solid #121212;
 }

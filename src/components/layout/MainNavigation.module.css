@@ -1,10 +1,11 @@
 .header {
-    padding: 1rem;
+    padding: 1rem 4rem;
     display: flex;
     align-items: flex-start;
     height: 100px;
-    width: 100%;
+    /* width: 100%; */
     justify-content: right;
+    background-color: #121212;
 }
 
 ul {

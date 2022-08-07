@@ -1,7 +1,6 @@
 .section-header {
     height: 500px;
-    padding: 0 1rem;
-    position: relative;
+    padding: 2rem 4rem;
     background-color: #121212;
 }
 
@@ -11,7 +10,6 @@
 .section-header__title {
     font-size: 60px; 
     font-weight: bold;
-    width: 600px;
     text-align: left;
     color: #FFF;
 }

@@ -37,7 +37,7 @@
     transform: rotate(360deg);
   }
 }
-
+/* 
 .wrapper {
 
   display: flex;
@@ -47,14 +47,14 @@
   position: absolute;
   left: 0;
   right: 0;
-}
+} */
 
 section {
   padding: 50px 10px;
 }
 
 html {
-  background-color: #121212;
+  /* background-color: #121212; */
 }
 
 ::-moz-selection { /* Code for Firefox */
