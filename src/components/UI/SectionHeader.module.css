@@ -1,0 +1,26 @@
+.section-header {
+    height: 500px;
+    padding: 0 1rem;
+    position: relative;
+}
+
+.section-header__container {
+    
+}
+.section-header__title {
+    font-size: 60px; 
+    font-weight: bold;
+    width: 600px;
+    text-align: left;
+    color: #FFF;
+}
+
+.section-header__subheading {
+    font-size: 20px; 
+    width: 600px;
+    text-align: left;
+    font-weight: 400;
+    color: #AAAA;
+}
+
+
