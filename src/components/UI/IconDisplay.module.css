@@ -1,0 +1,21 @@
+
+
+.icon-container {
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    width: 140px;
+    padding: 5px 20px;
+    margin: 0 5px;
+    border: 1px solid transparent;
+    border-radius: 50px;
+}
+
+.icon-container p {
+    color: #FFF;
+    margin-left: 15px;
+}
+
+.icon-container:hover {
+    border: 1px solid #FFF;
+}

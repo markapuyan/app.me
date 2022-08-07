@@ -2,6 +2,7 @@
     height: 500px;
     padding: 0 1rem;
     position: relative;
+    background-color: #121212;
 }
 
 .section-header__container {
@@ -25,6 +26,6 @@
 
 
 .sub-page {
-    
+    height: 200px;
 }
 

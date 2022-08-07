@@ -5,7 +5,7 @@ const MainNavigation = () => {
         <nav>
             <ul>
                 <li className={classes.link}>
-                    <NavLink to="/app.me/about">About</NavLink>
+                    <NavLink to="/app.me/#/about">About</NavLink>
                 </li>
                 <li className={classes.link}>
                     <NavLink to="/app.me/works">Works</NavLink>

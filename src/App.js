@@ -1,7 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 import Layout from './components/layout/Layout'
 import Home from './pages/Home'
-import About from './pages/About'
 import Works from './pages/Works'
 import './App.css';
 function App() {
@@ -10,7 +9,6 @@ function App() {
       <Layout>
         <Routes>
           <Route path="/app.me" exact element={<Home/>}></Route>
-          <Route path="/app.me/about" exact element={<About/>}></Route>
           <Route path="/app.me/works" exact element={ <Works />}></Route>
         </Routes>
       </Layout>
