@@ -1,7 +1,5 @@
 import { Fragment } from "react"
 import SectionHeader from "../components/UI/SectionHeader"
-import WorkItem from "../components/UI/WorkItem"
-import classes from './Home.module.css'
 import image from '../assets/coding.png'
 const Home = () => {
     return <Fragment>
