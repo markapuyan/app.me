@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/app.me/static/css/main.c5924ecc.css",
-    "main.js": "/app.me/static/js/main.8bcc920f.js",
+    "main.css": "/app.me/static/css/main.e8c0f731.css",
+    "main.js": "/app.me/static/js/main.f87da44e.js",
     "static/js/787.1f835c3c.chunk.js": "/app.me/static/js/787.1f835c3c.chunk.js",
     "static/media/sass-svgrepo-com.svg": "/app.me/static/media/sass-svgrepo-com.5fc20428d9402fcb2ae3fe1ddc29d625.svg",
     "static/media/react-svgrepo-com.svg": "/app.me/static/media/react-svgrepo-com.8fbfd99ef6838886e5c486274a463452.svg",
@@ -17,12 +17,12 @@
     "static/media/nuxtjs-svgrepo-com.svg": "/app.me/static/media/nuxtjs-svgrepo-com.b8eef9b276580ba9541282c39ec282e0.svg",
     "static/media/vuejs-svgrepo-com.svg": "/app.me/static/media/vuejs-svgrepo-com.520aece0f13933fc68d5e9e58de5ee22.svg",
     "static/media/vuetify-svgrepo-com.svg": "/app.me/static/media/vuetify-svgrepo-com.67bd60e22e26632026d81ba29d70152e.svg",
-    "main.c5924ecc.css.map": "/app.me/static/css/main.c5924ecc.css.map",
-    "main.8bcc920f.js.map": "/app.me/static/js/main.8bcc920f.js.map",
+    "main.e8c0f731.css.map": "/app.me/static/css/main.e8c0f731.css.map",
+    "main.f87da44e.js.map": "/app.me/static/js/main.f87da44e.js.map",
     "787.1f835c3c.chunk.js.map": "/app.me/static/js/787.1f835c3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5924ecc.css",
-    "static/js/main.8bcc920f.js"
+    "static/css/main.e8c0f731.css",
+    "static/js/main.f87da44e.js"
   ]
 }
