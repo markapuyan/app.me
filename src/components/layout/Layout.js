@@ -1,6 +1,7 @@
 import { Fragment } from "react"
 import MainNavigation from "./MainNavigation"
 import classes from './Layout.module.css'
+import SectionFooter from "../UI/SectionFooter"
 const Layout = (props) => {
     return <Fragment>
         <MainNavigation/>
@@ -10,6 +11,7 @@ const Layout = (props) => {
             </div>
            
         </main>
+        <SectionFooter/>
     </Fragment>
 }
 

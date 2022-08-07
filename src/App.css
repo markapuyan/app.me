@@ -56,3 +56,13 @@ section {
 html {
   background-color: #212121;
 }
+
+::-moz-selection { /* Code for Firefox */
+  color: #FFF;
+  background: black;
+}
+
+::selection {
+  color: #FFF;
+  background: black;
+}
