@@ -1,20 +1,25 @@
-
-
 .icon-container {
-    display: flex;
-    justify-content: flex-start;
-    align-content: center;
-    width: 140px;
-    padding: 5px 20px;
-    margin: 0 5px;
-    border: 1px solid transparent;
-    border-radius: 5px;
-    background: rgba(153,153,153,.2);
-    margin-bottom: 1.5rem;
-    margin-right: 1.5rem;
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+  width: 140px;
+  padding: 5px 20px;
+  margin: 0 5px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background: rgba(153, 153, 153, 0.2);
+  margin-bottom: 1.5rem;
+  margin-right: 1.5rem;
 }
 
 .icon-container p {
-    color: #121212;
-    margin-left: 15px;
+  color: #121212;
+  margin-left: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+  .icon-container {
+    margin: 3px;
+    padding: 5px;
+  }
 }

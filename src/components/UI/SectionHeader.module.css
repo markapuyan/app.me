@@ -1,10 +1,25 @@
 .section-header {
   height: 500px;
   padding: 2rem 4rem;
-  background: -moz-linear-gradient(142deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 35%, rgba(93,112,116,1) 100%);
-  background: -webkit-linear-gradient(142deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 35%, rgba(93,112,116,1) 100%);
-  background: linear-gradient(142deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 35%, rgba(93,112,116,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#5d7074",GradientType=1);;
+  background: -moz-linear-gradient(
+    142deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(2, 0, 36, 1) 35%,
+    rgba(93, 112, 116, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    142deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(2, 0, 36, 1) 35%,
+    rgba(93, 112, 116, 1) 100%
+  );
+  background: linear-gradient(
+    142deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(2, 0, 36, 1) 35%,
+    rgba(93, 112, 116, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#5d7074",GradientType=1);
 }
 
 .section-header__container {
@@ -28,6 +43,12 @@
 
 .sub-page {
   height: 200px;
+}
+
+@media only screen and (max-width: 768px) {
+  .section-header {
+    padding: 2rem;
+  }
 }
 
 @media only screen and (min-width: 1025px) {

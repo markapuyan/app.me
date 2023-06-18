@@ -1,0 +1,21 @@
+.section-header-main {
+  font-size: 40px;
+  text-align: center;
+}
+
+.work {
+  padding: 4rem;
+  color: #161a42;
+}
+
+@media only screen and (max-width: 768px) {
+  .work {
+    padding: 1.2rem;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .work {
+    padding: 2rem 10rem;
+  }
+}

@@ -1,18 +1,25 @@
-import { Fragment } from "react"
-import classes from './WorkItem.module.css'
+import { Fragment } from "react";
+import classes from "./WorkItem.module.css";
 const WorkItem = (props) => {
-    return <Fragment>
-        <div className={classes.container}>
-            <div className={classes['featured-img']}>
-                <img src="https://images.unsplash.com/photo-1583511655857-d19b40a7a54e" alt="test"/>
-                
-            </div>
-            <div className={classes['featured-title']}>
-                <h1>asdasdasd</h1>
-            </div>
-            
+  return (
+    <Fragment>
+      <div className={classes.container}>
+        <div className={classes["featured-img"]}>
+          <img src={props.imageSource} alt="test" />
         </div>
+        <div className={classes["featured-title"]}>
+          <h1 className={classes["work-title"]}>
+            <span>{props.name}</span>
+          </h1>
+          <div>
+            <p className={classes["work-technology"]}>{props.technology}</p>
+            <p>{props.details}</p>
+            <button className={classes["work-redirect"]}>View</button>
+          </div>
+        </div>
+      </div>
     </Fragment>
-}
+  );
+};
 
-export default WorkItem
+export default WorkItem;
