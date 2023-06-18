@@ -25,14 +25,13 @@
 }
 
 .work-title {
-  font-size:1.5em;
+  font-size: 1.5em;
 }
 
 .work-technology {
   font-style: italic;
-  color: #161A42;
+  color: #161a42;
 }
-
 
 .work-redirect {
   all: unset;
@@ -41,23 +40,27 @@
   background-color: transparent;
   font-weight: bold;
   border-radius: 5px;
-  color: #161A42;
-  border: 1px solid #161A42;
+  color: #161a42;
+  border: 1px solid #161a42;
 }
+
 .work-redirect:hover {
   all: unset;
   font-size: 14px;
   padding: 10px 50px;
-  background-color: #161A42;
+  background-color: #161a42;
   font-weight: bold;
   border-radius: 5px;
-  color: #FFF;
-  border: 1px solid #161A42;
+  color: #fff;
+  border: 1px solid #161a42;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
 
 @media only screen and (max-width: 768px) {
-
   .work-redirect,
   .work-redirect:hover {
     width: 80%;
@@ -68,6 +71,6 @@
   }
 
   .featured-img {
-    width: 80%
+    width: 80%;
   }
 }

@@ -14,7 +14,7 @@ const WorkItem = (props) => {
           <div>
             <p className={classes["work-technology"]}>{props.technology}</p>
             <p>{props.details}</p>
-            <button className={classes["work-redirect"]}>View</button>
+            <button className={classes["work-redirect"]}><a href={props.link} target="blank">View</a></button>
           </div>
         </div>
       </div>
