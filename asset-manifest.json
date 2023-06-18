@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app.me/static/css/main.ec1b71f6.css",
+    "main.css": "/app.me/static/css/main.0d36df6b.css",
     "main.js": "/app.me/static/js/main.f4d855aa.js",
     "static/js/787.1f835c3c.chunk.js": "/app.me/static/js/787.1f835c3c.chunk.js",
     "static/media/viaph.png": "/app.me/static/media/viaph.33358346946364660d29.png",
@@ -21,12 +21,12 @@
     "static/media/nuxtjs-svgrepo-com.svg": "/app.me/static/media/nuxtjs-svgrepo-com.b8eef9b276580ba9541282c39ec282e0.svg",
     "static/media/vuejs-svgrepo-com.svg": "/app.me/static/media/vuejs-svgrepo-com.520aece0f13933fc68d5e9e58de5ee22.svg",
     "static/media/vuetify-svgrepo-com.svg": "/app.me/static/media/vuetify-svgrepo-com.67bd60e22e26632026d81ba29d70152e.svg",
-    "main.ec1b71f6.css.map": "/app.me/static/css/main.ec1b71f6.css.map",
+    "main.0d36df6b.css.map": "/app.me/static/css/main.0d36df6b.css.map",
     "main.f4d855aa.js.map": "/app.me/static/js/main.f4d855aa.js.map",
     "787.1f835c3c.chunk.js.map": "/app.me/static/js/787.1f835c3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec1b71f6.css",
+    "static/css/main.0d36df6b.css",
     "static/js/main.f4d855aa.js"
   ]
 }
