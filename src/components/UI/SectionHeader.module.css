@@ -1,29 +1,37 @@
 .section-header {
-    height: 500px;
-    padding: 2rem 4rem;
-    background-color: #121212;
+  height: 500px;
+  padding: 2rem 4rem;
+  background: -moz-linear-gradient(142deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 35%, rgba(93,112,116,1) 100%);
+  background: -webkit-linear-gradient(142deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 35%, rgba(93,112,116,1) 100%);
+  background: linear-gradient(142deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 35%, rgba(93,112,116,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#5d7074",GradientType=1);;
 }
 
 .section-header__container {
-    
 }
 .section-header__title {
-    font-size: 60px; 
-    font-weight: bold;
-    text-align: left;
-    color: #FFF;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: left;
+  color: #fff;
 }
 
 .section-header__subheading {
-    font-size: 20px; 
-    width: 600px;
-    text-align: left;
-    font-weight: 400;
-    color: #AAAA;
+  font-size: 20px;
+  width: 80vw;
+  text-align: left;
+  font-weight: 400;
+  color: #aaaa;
+  text-wrap: wrap;
+  word-break: break-word;
 }
-
 
 .sub-page {
-    height: 200px;
+  height: 200px;
 }
 
+@media only screen and (min-width: 1025px) {
+  .section-header {
+    padding: 2rem 10rem;
+  }
+}

@@ -5,7 +5,7 @@
 .cta {
   position: relative;
   margin: auto;
-  padding: 19px 22px;
+  padding: 16px 22px;
   transition: all 0.2s ease;
   color: #FFF;
   text-decoration: none;
@@ -18,7 +18,7 @@
   left: 0;
   display: block;
   border-radius: 28px;
-  background: gray;
+  background: #161A42;
   width: 56px;
   height: 56px;
   transition: all 0.3s ease;
@@ -47,7 +47,7 @@
 .cta:hover:before {
   width: 100%;
   background: transparent;
-  border: 1px solid gray;
+  border: 1px solid #161A42;
 }
 .cta:hover svg {
   transform: translateX(0);

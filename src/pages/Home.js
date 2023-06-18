@@ -5,8 +5,8 @@ import SectionAbout from '../components/UI/SectionAbout'
 const Home = () => {
     return <Fragment>
         <SectionHeader
-            title="ui designer / frontend developer"
-            subheading="I'm Mark Joseph Apuyan, a ui designer and frontend developer based in Valenzuela, Philippines."
+            title="frontend developer"
+            subheading="I'm MJ, a ui designer and frontend software engineer based in Valenzuela, Philippines."
             showCta
             ctaLink='/app.me/about'
             ctaTitle='Contact Me'/>

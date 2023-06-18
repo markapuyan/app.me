@@ -8,14 +8,13 @@
     padding: 5px 20px;
     margin: 0 5px;
     border: 1px solid transparent;
-    border-radius: 50px;
+    border-radius: 5px;
+    background: rgba(153,153,153,.2);
+    margin-bottom: 1.5rem;
+    margin-right: 1.5rem;
 }
 
 .icon-container p {
     color: #121212;
     margin-left: 15px;
-}
-
-.icon-container:hover {
-    border: 1px solid #121212;
 }
